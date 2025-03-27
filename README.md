@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @sukiki525
+- 👋 Hi, I’m Qi Su
 - 👀 I’m interested in UI/UX design and website development. 
-- 🌱 I’m currently learning in Simon Fraser university.
-- 💞️ I’m looking to collaborate on ...
-- 📫 Reach me by email: suqi5625@outlook.com
+- 📫 Reach me by email: suqi525@gmail.com
 
 <!---
 sukiki525/sukiki525 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
